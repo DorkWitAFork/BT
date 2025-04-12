@@ -1,0 +1,6 @@
+Sample output.txt file. Spencer Le Bleu, CSC 130. February 22, 2025.
+Invalid command found.
+Popped: 30
+Peek: 20
+Invalid command found.
+Stack elements (top to bottom): 20 10 

@@ -1,0 +1,8 @@
+push 10
+push 20
+push 30
+[ush 30 (intentional typo)
+pop
+peek
+an invalid command on this line!
+TraVerse
